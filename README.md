@@ -50,6 +50,6 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 ![Total vine reviews](resources/images/percentage_5_star_unpaid_reviews.png)
 
 ### Summary
-There does not appear to be any positivity bias for reviews in the Vine program. 52% of the 5-star reviews came from non-Vine reviewers as compared to 32% from Vine reviewers. We also observe that the non-Vine members provided an overwhelming higher number of reviews in general at 8362 than their Vine member counterpart at 47 reviews. The Vine membership does not seem to add any benefit to for SellBy.
+There does not appear to be any positivity bias for reviews in the Vine program. 52% of the 5-star reviews came from non-Vine reviewers as compared to 32% from Vine reviewers. We also observe that the non-Vine members provided an overwhelming higher number of reviews in general at 8362 than their Vine member counterpart at 47 reviews. The Vine membership does not seem to add any benefit to SellBy.
 
-An additional analysis that might be helpful in supporting this statement is to look at the average ratings and the quality of reviews.
+An additional analysis that might be helpful in supporting this statement is to look at the average ratings and the quality of reviews. 
